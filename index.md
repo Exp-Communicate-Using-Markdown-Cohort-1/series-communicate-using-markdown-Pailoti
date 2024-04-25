@@ -9,3 +9,7 @@ Demorou mais foi
 $ git calor
 Repositório Git vazio inicializado em /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] List syntax is required
+- [x] This item is comlplete
+- [ ] This item ot complete
+      
